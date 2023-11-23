@@ -80,6 +80,10 @@ E:\avalMint\bot1>pip install python-dotenv
 ```
 
 ### Step Write the wallet address and private key to .env
+```bash
+account_address = 'wallet address'
+account_private_key = 'private key'
+```
 
 ### Step Run the script
 
